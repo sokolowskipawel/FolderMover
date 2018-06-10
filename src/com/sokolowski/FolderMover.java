@@ -1,5 +1,5 @@
 package com.sokolowski;
-
+//zrobiłem coś jeszcze
 //odczyt pliku z danymi o przenoszeniu
 // klucz - nazwa pliku, dane ścieżka do przeniesienia
 
